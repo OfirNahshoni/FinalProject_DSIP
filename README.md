@@ -7,4 +7,6 @@ This project, implemented in Python3 (notebook file), trains a logistic classifi
 
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/58309185/183515583-e381e428-cb45-4ae6-9972-cfa9896eb39e.png">
 
-To activate the program you need to download the 
+To activate the program you need to download the ipynb (python notbook file) file. The start of coefficients is random choosen.
+The Gradient Step is implemented in a function called: ""
+This function is activated 1000 times, but it would be better to run even more steps the optimisation.
