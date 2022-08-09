@@ -7,3 +7,4 @@ This project, implemented in Python3 (notebook file), trains a logistic classifi
 
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/58309185/183515583-e381e428-cb45-4ae6-9972-cfa9896eb39e.png">
 
+To activate the program you need to download the 
